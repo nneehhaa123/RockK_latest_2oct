@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/multi_image_picker/intermediates/res/merged/release/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/nickneha/.gradle/caches/transforms-2/files-2.1/90a480a2e811c53ef3a6926a58f41dcd/material-1.0.0/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/multi_image_picker/intermediates/res/merged/release/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/nickneha/.gradle/caches/transforms-2/files-2.1/90a480a2e811c53ef3a6926a58f41dcd/material-1.0.0/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]

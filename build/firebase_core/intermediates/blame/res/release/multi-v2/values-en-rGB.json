@@ -1,0 +1,82 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_core/intermediates/res/merged/release/values-en-rGB/values-en-rGB.xml",
+            "map": [
+                {
+                    "source": "/home/nickneha/.gradle/caches/transforms-2/files-2.1/fdf784fd2c9c7bbe8b06efe893d5c23c/jetified-play-services-basement-17.0.0/res/values-en-rGB/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "251",
+                        "endColumns": "196",
+                        "endOffsets": "447"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "196",
+                        "endOffsets": "297"
+                    }
+                },
+                {
+                    "source": "/home/nickneha/.gradle/caches/transforms-2/files-2.1/dca335c69883a5773fdb54c98cfafda6/core-1.1.0/res/values-en-rGB/values-en-rGB.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "302",
+                        "endColumns": "100",
+                        "endOffsets": "398"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_core/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rGB/values-en-rGB.xml",
+            "map": [
+                {
+                    "source": "/home/nickneha/.gradle/caches/transforms-2/files-2.1/fdf784fd2c9c7bbe8b06efe893d5c23c/jetified-play-services-basement-17.0.0/res/values-en-rGB/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "251",
+                        "endColumns": "196",
+                        "endOffsets": "447"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "196",
+                        "endOffsets": "297"
+                    }
+                },
+                {
+                    "source": "/home/nickneha/.gradle/caches/transforms-2/files-2.1/dca335c69883a5773fdb54c98cfafda6/core-1.1.0/res/values-en-rGB/values-en-rGB.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "302",
+                        "endColumns": "100",
+                        "endOffsets": "398"
+                    }
+                }
+            ]
+        }
+    ]
+}

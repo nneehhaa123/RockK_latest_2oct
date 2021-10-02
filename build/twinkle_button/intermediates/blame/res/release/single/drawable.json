@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/twinkle_button/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/home/nickneha/.gradle/caches/transforms-2/files-2.1/dca335c69883a5773fdb54c98cfafda6/core-1.1.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/twinkle_button/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/home/nickneha/.gradle/caches/transforms-2/files-2.1/dca335c69883a5773fdb54c98cfafda6/core-1.1.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/twinkle_button/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/home/nickneha/.gradle/caches/transforms-2/files-2.1/dca335c69883a5773fdb54c98cfafda6/core-1.1.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/twinkle_button/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/home/nickneha/.gradle/caches/transforms-2/files-2.1/dca335c69883a5773fdb54c98cfafda6/core-1.1.0/res/drawable/notification_bg.xml"
+    }
+]

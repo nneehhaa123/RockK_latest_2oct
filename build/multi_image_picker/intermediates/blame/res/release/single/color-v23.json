@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/multi_image_picker/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/nickneha/.gradle/caches/transforms-2/files-2.1/24af5da4834a2a1bf2bca1f6631f7a5c/appcompat-1.0.0/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/multi_image_picker/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/nickneha/.gradle/caches/transforms-2/files-2.1/24af5da4834a2a1bf2bca1f6631f7a5c/appcompat-1.0.0/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/multi_image_picker/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/nickneha/.gradle/caches/transforms-2/files-2.1/24af5da4834a2a1bf2bca1f6631f7a5c/appcompat-1.0.0/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/multi_image_picker/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/home/nickneha/.gradle/caches/transforms-2/files-2.1/24af5da4834a2a1bf2bca1f6631f7a5c/appcompat-1.0.0/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/multi_image_picker/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/home/nickneha/.gradle/caches/transforms-2/files-2.1/24af5da4834a2a1bf2bca1f6631f7a5c/appcompat-1.0.0/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/multi_image_picker/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/home/nickneha/.gradle/caches/transforms-2/files-2.1/24af5da4834a2a1bf2bca1f6631f7a5c/appcompat-1.0.0/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/multi_image_picker/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/nickneha/.gradle/caches/transforms-2/files-2.1/24af5da4834a2a1bf2bca1f6631f7a5c/appcompat-1.0.0/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/multi_image_picker/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/nickneha/.gradle/caches/transforms-2/files-2.1/24af5da4834a2a1bf2bca1f6631f7a5c/appcompat-1.0.0/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/multi_image_picker/intermediates/res/merged/release/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/nickneha/.gradle/caches/transforms-2/files-2.1/90a480a2e811c53ef3a6926a58f41dcd/material-1.0.0/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/multi_image_picker/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/nickneha/.gradle/caches/transforms-2/files-2.1/24af5da4834a2a1bf2bca1f6631f7a5c/appcompat-1.0.0/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    }
+]

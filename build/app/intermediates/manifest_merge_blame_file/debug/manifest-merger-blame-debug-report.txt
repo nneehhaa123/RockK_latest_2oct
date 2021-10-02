@@ -1,0 +1,490 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.partyshifu.RockK"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+9        android:targetSdkVersion="30" />
+10    <!--
+11         Flutter needs it to communicate with the running application
+12         to allow setting breakpoints, to provide hot reload, etc.
+13    -->
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:17:5-67
+14-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:17:22-64
+15
+16    <queries>
+16-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:4:5-10:15
+17
+18        <!-- If your app opens https URLs -->
+19        <intent>
+19-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:6:9-9:18
+20            <action android:name="android.intent.action.VIEW" />
+20-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:7:13-65
+20-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:7:21-62
+21
+22            <data android:scheme="https" />
+22-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:8:13-44
+22-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:8:19-41
+23        </intent>
+24        <intent>
+24-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:6:9-9:18
+25            <action android:name="android.support.customtabs.action.CustomTabsService" />
+26        </intent>
+27    </queries>
+28
+29    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+29-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:12:5-80
+29-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:12:22-78
+30    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+30-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:13:5-78
+30-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:13:22-76
+31    <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES" />
+31-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:14:5-76
+31-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:14:22-74
+32    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+32-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:15:5-80
+32-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:15:22-77
+33    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+33-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:16:5-80
+33-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:16:22-78
+34    <uses-permission android:name="android.permission.CAMERA" />
+34-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:18:5-65
+34-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:18:22-62
+35    <uses-permission android:name="android.permission.FLASHLIGHT" />
+35-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:19:5-69
+35-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:19:22-66
+36    <uses-permission android:name="android.permission.WAKE_LOCK" />
+36-->[:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-68
+36-->[:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:8:22-65
+37    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+37-->[:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-79
+37-->[:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-76
+38    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+38-->[com.google.firebase:firebase-messaging:22.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/316038eeded89ec4c4b5ce5789a519f1/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:25:5-82
+38-->[com.google.firebase:firebase-messaging:22.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/316038eeded89ec4c4b5ce5789a519f1/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:25:22-79
+39    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+39-->[com.google.android.gms:play-services-measurement:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/71585d6f7916ae5591dcff470194b4c7/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:26:5-110
+39-->[com.google.android.gms:play-services-measurement:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/71585d6f7916ae5591dcff470194b4c7/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:26:22-107
+40
+41    <application
+41-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:20:4-62:19
+42        android:name="androidx.multidex.MultiDexApplication"
+43        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+43-->[androidx.core:core:1.3.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/c043bf77478be124f7b1d8e6cf6905f9/core-1.3.0/AndroidManifest.xml:24:18-86
+44        android:debuggable="true"
+45        android:icon="@mipmap/ic_launcher"
+45-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:22:9-43
+46        android:label="RockK"
+46-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:21:9-30
+47        android:requestLegacyExternalStorage="true" >
+47-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:23:9-52
+48        <activity
+48-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:24:9-56:20
+49            android:name="com.partyshifu.RockK.MainActivity"
+49-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:25:13-41
+50            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+50-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:28:13-163
+51            android:hardwareAccelerated="true"
+51-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:29:13-47
+52            android:launchMode="singleTop"
+52-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:26:13-43
+53            android:theme="@style/LaunchTheme"
+53-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:27:13-47
+54            android:windowSoftInputMode="adjustResize" >
+54-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:30:13-55
+55
+56            <!--
+57                 Specifies an Android theme to apply to this Activity as soon as
+58                 the Android process has started. This theme is visible to the user
+59                 while the Flutter UI initializes. After that, this theme continues
+60                 to determine the Window background behind the Flutter UI.
+61            -->
+62            <meta-data
+62-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:35:13-38:17
+63                android:name="io.flutter.embedding.android.NormalTheme"
+63-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:36:15-70
+64                android:resource="@style/NormalTheme" />
+64-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:37:15-52
+65            <!--
+66                 Displays an Android View that continues showing the launch screen
+67                 Drawable until Flutter paints its first frame, then this splash
+68                 screen fades out. A splash screen is useful to avoid any visual
+69                 gap between the end of Android's launch screen and the painting of
+70                 Flutter's first frame.
+71            -->
+72            <meta-data
+72-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:44:13-47:17
+73                android:name="io.flutter.embedding.android.SplashScreenDrawable"
+73-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:45:15-79
+74                android:resource="@drawable/launch_background" />
+74-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:46:15-61
+75
+76            <intent-filter>
+76-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:48:13-51:29
+77                <action android:name="android.intent.action.MAIN" />
+77-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:49:17-68
+77-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:49:25-66
+78
+79                <category android:name="android.intent.category.LAUNCHER" />
+79-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:50:17-76
+79-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:50:27-74
+80            </intent-filter>
+81            <intent-filter>
+81-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:52:13-55:29
+82                <action android:name="FLUTTER_NOTIFICATION_CLICL" />
+82-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:53:17-68
+82-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:53:25-66
+83
+84                <category android:name="android.intent.category.DEFAULT" />
+84-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:54:17-75
+84-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:54:27-73
+85            </intent-filter>
+86        </activity>
+87        <!--
+88             Don't delete the meta-data below.
+89             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+90        -->
+91        <meta-data
+91-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:59:9-61:33
+92            android:name="flutterEmbedding"
+92-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:60:13-44
+93            android:value="2" />
+93-->/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:61:13-30
+94
+95        <service
+95-->[:firebase_storage] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+96            android:name="com.google.firebase.components.ComponentDiscoveryService"
+96-->[:firebase_storage] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:8:18-89
+97            android:directBootAware="true"
+97-->[com.google.firebase:firebase-common:20.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b812895ce66149ff126824ce4bae7c29/jetified-firebase-common-20.0.0/AndroidManifest.xml:35:13-43
+98            android:exported="false" >
+98-->[com.google.firebase:firebase-messaging:22.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/316038eeded89ec4c4b5ce5789a519f1/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:51:13-37
+99            <meta-data
+99-->[:firebase_storage] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+100                android:name="com.google.firebase.components:io.flutter.plugins.firebase.storage.FlutterFirebaseAppRegistrar"
+100-->[:firebase_storage] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-126
+101                android:value="com.google.firebase.components.ComponentRegistrar" />
+101-->[:firebase_storage] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+102            <meta-data
+102-->[:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:34:13-36:85
+103                android:name="com.google.firebase.components:io.flutter.plugins.firebase.messaging.FlutterFirebaseAppRegistrar"
+103-->[:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:35:17-128
+104                android:value="com.google.firebase.components.ComponentRegistrar" />
+104-->[:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:36:17-82
+105            <meta-data
+105-->[:cloud_firestore] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+106                android:name="com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar"
+106-->[:cloud_firestore] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-134
+107                android:value="com.google.firebase.components.ComponentRegistrar" />
+107-->[:cloud_firestore] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+108            <meta-data
+108-->[:firebase_core] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+109                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar"
+109-->[:firebase_core] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-124
+110                android:value="com.google.firebase.components.ComponentRegistrar" />
+110-->[:firebase_core] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+111            <meta-data
+111-->[com.google.firebase:firebase-messaging:22.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/316038eeded89ec4c4b5ce5789a519f1/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:52:13-54:85
+112                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+112-->[com.google.firebase:firebase-messaging:22.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/316038eeded89ec4c4b5ce5789a519f1/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:53:17-119
+113                android:value="com.google.firebase.components.ComponentRegistrar" />
+113-->[com.google.firebase:firebase-messaging:22.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/316038eeded89ec4c4b5ce5789a519f1/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:54:17-82
+114            <meta-data
+114-->[com.google.firebase:firebase-datatransport:18.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/95a3e9009b7f95cf657828014997a445/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:28:13-30:85
+115                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+115-->[com.google.firebase:firebase-datatransport:18.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/95a3e9009b7f95cf657828014997a445/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:29:17-115
+116                android:value="com.google.firebase.components.ComponentRegistrar" />
+116-->[com.google.firebase:firebase-datatransport:18.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/95a3e9009b7f95cf657828014997a445/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:30:17-82
+117            <meta-data
+117-->[com.google.firebase:firebase-firestore:23.0.1] /home/nickneha/.gradle/caches/transforms-2/files-2.1/0f5a66da1613175e2aa079b047cbe31c/jetified-firebase-firestore-23.0.1/AndroidManifest.xml:20:13-22:85
+118                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+118-->[com.google.firebase:firebase-firestore:23.0.1] /home/nickneha/.gradle/caches/transforms-2/files-2.1/0f5a66da1613175e2aa079b047cbe31c/jetified-firebase-firestore-23.0.1/AndroidManifest.xml:21:17-111
+119                android:value="com.google.firebase.components.ComponentRegistrar" />
+119-->[com.google.firebase:firebase-firestore:23.0.1] /home/nickneha/.gradle/caches/transforms-2/files-2.1/0f5a66da1613175e2aa079b047cbe31c/jetified-firebase-firestore-23.0.1/AndroidManifest.xml:22:17-82
+120            <meta-data
+120-->[com.google.firebase:firebase-storage:20.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/4b82aa24a3d3d716360de72484311df6/jetified-firebase-storage-20.0.0/AndroidManifest.xml:33:13-35:85
+121                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+121-->[com.google.firebase:firebase-storage:20.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/4b82aa24a3d3d716360de72484311df6/jetified-firebase-storage-20.0.0/AndroidManifest.xml:34:17-107
+122                android:value="com.google.firebase.components.ComponentRegistrar" />
+122-->[com.google.firebase:firebase-storage:20.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/4b82aa24a3d3d716360de72484311df6/jetified-firebase-storage-20.0.0/AndroidManifest.xml:35:17-82
+123            <meta-data
+123-->[com.google.android.gms:play-services-measurement-api:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/31910f11ba510bc160c976e69225e48a/jetified-play-services-measurement-api-19.0.0/AndroidManifest.xml:30:13-32:85
+124                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+124-->[com.google.android.gms:play-services-measurement-api:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/31910f11ba510bc160c976e69225e48a/jetified-play-services-measurement-api-19.0.0/AndroidManifest.xml:31:17-139
+125                android:value="com.google.firebase.components.ComponentRegistrar" />
+125-->[com.google.android.gms:play-services-measurement-api:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/31910f11ba510bc160c976e69225e48a/jetified-play-services-measurement-api-19.0.0/AndroidManifest.xml:32:17-82
+126            <meta-data
+126-->[com.google.firebase:firebase-installations:17.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/f5f5d91b30b28a3f2289fe3dbd65d501/jetified-firebase-installations-17.0.0/AndroidManifest.xml:18:13-20:85
+127                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+127-->[com.google.firebase:firebase-installations:17.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/f5f5d91b30b28a3f2289fe3dbd65d501/jetified-firebase-installations-17.0.0/AndroidManifest.xml:19:17-127
+128                android:value="com.google.firebase.components.ComponentRegistrar" />
+128-->[com.google.firebase:firebase-installations:17.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/f5f5d91b30b28a3f2289fe3dbd65d501/jetified-firebase-installations-17.0.0/AndroidManifest.xml:20:17-82
+129        </service>
+130
+131        <provider
+131-->[:image_picker] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-16:20
+132            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
+132-->[:image_picker] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-82
+133            android:authorities="com.partyshifu.RockK.flutter.image_provider"
+133-->[:image_picker] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-74
+134            android:exported="false"
+134-->[:image_picker] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-37
+135            android:grantUriPermissions="true" >
+135-->[:image_picker] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-47
+136            <meta-data
+136-->[:image_picker] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-15:75
+137                android:name="android.support.FILE_PROVIDER_PATHS"
+137-->[:image_picker] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:14:17-67
+138                android:resource="@xml/flutter_image_picker_file_paths" />
+138-->[:image_picker] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:15:17-72
+139        </provider>
+140
+141        <service
+141-->[:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-15:72
+142            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingBackgroundService"
+142-->[:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-107
+143            android:exported="false"
+143-->[:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-37
+144            android:permission="android.permission.BIND_JOB_SERVICE" />
+144-->[:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-69
+145        <service
+145-->[:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-22:19
+146            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingService"
+146-->[:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-97
+147            android:exported="false" >
+147-->[:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-37
+148            <intent-filter>
+148-->[:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-21:29
+149                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+149-->[:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:20:17-78
+149-->[:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:20:25-75
+150            </intent-filter>
+151        </service>
+152
+153        <receiver
+153-->[:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:24:9-31:20
+154            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingReceiver"
+154-->[:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:25:13-98
+155            android:exported="true"
+155-->[:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:26:13-36
+156            android:permission="com.google.android.c2dm.permission.SEND" >
+156-->[:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:27:13-73
+157            <intent-filter>
+157-->[:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:28:13-30:29
+158                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+158-->[:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:29:17-81
+158-->[:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:29:25-78
+159            </intent-filter>
+160        </receiver>
+161
+162        <provider
+162-->[:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:39:9-43:38
+163            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingInitProvider"
+163-->[:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:40:13-102
+164            android:authorities="com.partyshifu.RockK.flutterfirebasemessaginginitprovider"
+164-->[:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:41:13-88
+165            android:exported="false"
+165-->[:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:42:13-37
+166            android:initOrder="99" />
+166-->[:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:43:13-35
+167
+168        <activity
+168-->[:url_launcher] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-11:74
+169            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
+169-->[:url_launcher] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-74
+170            android:exported="false"
+170-->[:url_launcher] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-37
+171            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+171-->[:url_launcher] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-71
+172        <activity
+172-->[:flutter_inappwebview] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:14:9-17:47
+173            android:name="com.pichillilorenzo.flutter_inappwebview.in_app_browser.InAppBrowserActivity"
+173-->[:flutter_inappwebview] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-104
+174            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|layoutDirection|fontScale|screenLayout|density"
+174-->[:flutter_inappwebview] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-137
+175            android:theme="@style/AppTheme" />
+175-->[:flutter_inappwebview] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-44
+176        <activity
+176-->[:flutter_inappwebview] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:18:9-20:55
+177            android:name="com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ChromeCustomTabsActivity"
+177-->[:flutter_inappwebview] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-112
+178            android:theme="@style/ThemeTransparent" />
+178-->[:flutter_inappwebview] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-52
+179
+180        <receiver android:name="com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ActionBroadcastReceiver" />
+180-->[:flutter_inappwebview] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:22:9-120
+180-->[:flutter_inappwebview] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:22:19-117
+181
+182        <meta-data
+182-->[:flutter_inappwebview] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:24:9-26:36
+183            android:name="io.flutter.embedded_views_preview"
+183-->[:flutter_inappwebview] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:25:13-61
+184            android:value="true" />
+184-->[:flutter_inappwebview] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/flutter_inappwebview/intermediates/library_manifest/debug/AndroidManifest.xml:26:13-33
+185
+186        <provider
+186-->[com.sangcomz:FishBun:0.11.2] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b469436221e1bb83d5a99bacad7c6c7d/jetified-FishBun-0.11.2/AndroidManifest.xml:12:9-20:20
+187            android:name="com.sangcomz.fishbun.FishBunFileProvider"
+187-->[com.sangcomz:FishBun:0.11.2] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b469436221e1bb83d5a99bacad7c6c7d/jetified-FishBun-0.11.2/AndroidManifest.xml:13:13-68
+188            android:authorities="com.partyshifu.RockK.fishbunfileprovider"
+188-->[com.sangcomz:FishBun:0.11.2] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b469436221e1bb83d5a99bacad7c6c7d/jetified-FishBun-0.11.2/AndroidManifest.xml:14:13-71
+189            android:exported="false"
+189-->[com.sangcomz:FishBun:0.11.2] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b469436221e1bb83d5a99bacad7c6c7d/jetified-FishBun-0.11.2/AndroidManifest.xml:15:13-37
+190            android:grantUriPermissions="true" >
+190-->[com.sangcomz:FishBun:0.11.2] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b469436221e1bb83d5a99bacad7c6c7d/jetified-FishBun-0.11.2/AndroidManifest.xml:16:13-47
+191            <meta-data
+191-->[:image_picker] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-15:75
+192                android:name="android.support.FILE_PROVIDER_PATHS"
+192-->[:image_picker] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:14:17-67
+193                android:resource="@xml/provider_paths" />
+193-->[:image_picker] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:15:17-72
+194        </provider>
+195
+196        <activity
+196-->[com.sangcomz:FishBun:0.11.2] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b469436221e1bb83d5a99bacad7c6c7d/jetified-FishBun-0.11.2/AndroidManifest.xml:22:9-25:51
+197            android:name="com.sangcomz.fishbun.ui.album.AlbumActivity"
+197-->[com.sangcomz:FishBun:0.11.2] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b469436221e1bb83d5a99bacad7c6c7d/jetified-FishBun-0.11.2/AndroidManifest.xml:23:13-71
+198            android:label="@string/album"
+198-->[com.sangcomz:FishBun:0.11.2] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b469436221e1bb83d5a99bacad7c6c7d/jetified-FishBun-0.11.2/AndroidManifest.xml:24:13-42
+199            android:theme="@style/FishBunTheme" />
+199-->[com.sangcomz:FishBun:0.11.2] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b469436221e1bb83d5a99bacad7c6c7d/jetified-FishBun-0.11.2/AndroidManifest.xml:25:13-48
+200        <activity
+200-->[com.sangcomz:FishBun:0.11.2] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b469436221e1bb83d5a99bacad7c6c7d/jetified-FishBun-0.11.2/AndroidManifest.xml:26:9-28:51
+201            android:name="com.sangcomz.fishbun.ui.picker.PickerActivity"
+201-->[com.sangcomz:FishBun:0.11.2] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b469436221e1bb83d5a99bacad7c6c7d/jetified-FishBun-0.11.2/AndroidManifest.xml:27:13-73
+202            android:theme="@style/FishBunTheme" />
+202-->[com.sangcomz:FishBun:0.11.2] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b469436221e1bb83d5a99bacad7c6c7d/jetified-FishBun-0.11.2/AndroidManifest.xml:28:13-48
+203        <activity
+203-->[com.sangcomz:FishBun:0.11.2] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b469436221e1bb83d5a99bacad7c6c7d/jetified-FishBun-0.11.2/AndroidManifest.xml:29:9-31:54
+204            android:name="com.sangcomz.fishbun.ui.detail.DetailActivity"
+204-->[com.sangcomz:FishBun:0.11.2] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b469436221e1bb83d5a99bacad7c6c7d/jetified-FishBun-0.11.2/AndroidManifest.xml:30:13-73
+205            android:theme="@style/DetailViewTheme" />
+205-->[com.sangcomz:FishBun:0.11.2] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b469436221e1bb83d5a99bacad7c6c7d/jetified-FishBun-0.11.2/AndroidManifest.xml:31:13-51
+206
+207        <receiver
+207-->[com.google.firebase:firebase-messaging:22.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/316038eeded89ec4c4b5ce5789a519f1/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:28:9-35:20
+208            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+208-->[com.google.firebase:firebase-messaging:22.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/316038eeded89ec4c4b5ce5789a519f1/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:29:13-78
+209            android:exported="true"
+209-->[com.google.firebase:firebase-messaging:22.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/316038eeded89ec4c4b5ce5789a519f1/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:30:13-36
+210            android:permission="com.google.android.c2dm.permission.SEND" >
+210-->[com.google.firebase:firebase-messaging:22.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/316038eeded89ec4c4b5ce5789a519f1/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:31:13-73
+211            <intent-filter>
+211-->[:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:28:13-30:29
+212                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+212-->[:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:29:17-81
+212-->[:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:29:25-78
+213            </intent-filter>
+214        </receiver>
+215        <!--
+216             FirebaseMessagingService performs security checks at runtime,
+217             but set to not exported to explicitly avoid allowing another app to call it.
+218        -->
+219        <service
+219-->[com.google.firebase:firebase-messaging:22.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/316038eeded89ec4c4b5ce5789a519f1/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:41:9-48:19
+220            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+220-->[com.google.firebase:firebase-messaging:22.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/316038eeded89ec4c4b5ce5789a519f1/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:42:13-82
+221            android:directBootAware="true"
+221-->[com.google.firebase:firebase-messaging:22.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/316038eeded89ec4c4b5ce5789a519f1/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:43:13-43
+222            android:exported="false" >
+222-->[com.google.firebase:firebase-messaging:22.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/316038eeded89ec4c4b5ce5789a519f1/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:44:13-37
+223            <intent-filter android:priority="-500" >
+223-->[:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-21:29
+224                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+224-->[:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:20:17-78
+224-->[:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/debug/AndroidManifest.xml:20:25-75
+225            </intent-filter>
+226        </service>
+227        <service
+227-->[com.google.android.datatransport:transport-backend-cct:3.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/fea5b7bda5c79f163ce32e8c27a81771/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:29:9-35:19
+228            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+228-->[com.google.android.datatransport:transport-backend-cct:3.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/fea5b7bda5c79f163ce32e8c27a81771/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:30:13-103
+229            android:exported="false" >
+229-->[com.google.android.datatransport:transport-backend-cct:3.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/fea5b7bda5c79f163ce32e8c27a81771/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:31:13-37
+230            <meta-data
+230-->[com.google.android.datatransport:transport-backend-cct:3.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/fea5b7bda5c79f163ce32e8c27a81771/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:32:13-34:39
+231                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+231-->[com.google.android.datatransport:transport-backend-cct:3.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/fea5b7bda5c79f163ce32e8c27a81771/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:33:17-94
+232                android:value="cct" />
+232-->[com.google.android.datatransport:transport-backend-cct:3.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/fea5b7bda5c79f163ce32e8c27a81771/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:34:17-36
+233        </service>
+234
+235        <provider
+235-->[com.google.firebase:firebase-common:20.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b812895ce66149ff126824ce4bae7c29/jetified-firebase-common-20.0.0/AndroidManifest.xml:26:9-31:39
+236            android:name="com.google.firebase.provider.FirebaseInitProvider"
+236-->[com.google.firebase:firebase-common:20.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b812895ce66149ff126824ce4bae7c29/jetified-firebase-common-20.0.0/AndroidManifest.xml:27:13-77
+237            android:authorities="com.partyshifu.RockK.firebaseinitprovider"
+237-->[com.google.firebase:firebase-common:20.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b812895ce66149ff126824ce4bae7c29/jetified-firebase-common-20.0.0/AndroidManifest.xml:28:13-72
+238            android:directBootAware="true"
+238-->[com.google.firebase:firebase-common:20.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b812895ce66149ff126824ce4bae7c29/jetified-firebase-common-20.0.0/AndroidManifest.xml:29:13-43
+239            android:exported="false"
+239-->[com.google.firebase:firebase-common:20.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b812895ce66149ff126824ce4bae7c29/jetified-firebase-common-20.0.0/AndroidManifest.xml:30:13-37
+240            android:initOrder="100" />
+240-->[com.google.firebase:firebase-common:20.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b812895ce66149ff126824ce4bae7c29/jetified-firebase-common-20.0.0/AndroidManifest.xml:31:13-36
+241
+242        <receiver
+242-->[com.google.android.gms:play-services-measurement:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/71585d6f7916ae5591dcff470194b4c7/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:29:9-33:20
+243            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+243-->[com.google.android.gms:play-services-measurement:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/71585d6f7916ae5591dcff470194b4c7/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:30:13-85
+244            android:enabled="true"
+244-->[com.google.android.gms:play-services-measurement:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/71585d6f7916ae5591dcff470194b4c7/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:31:13-35
+245            android:exported="false" >
+245-->[com.google.android.gms:play-services-measurement:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/71585d6f7916ae5591dcff470194b4c7/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:32:13-37
+246        </receiver>
+247
+248        <service
+248-->[com.google.android.gms:play-services-measurement:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/71585d6f7916ae5591dcff470194b4c7/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:35:9-38:40
+249            android:name="com.google.android.gms.measurement.AppMeasurementService"
+249-->[com.google.android.gms:play-services-measurement:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/71585d6f7916ae5591dcff470194b4c7/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:36:13-84
+250            android:enabled="true"
+250-->[com.google.android.gms:play-services-measurement:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/71585d6f7916ae5591dcff470194b4c7/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:37:13-35
+251            android:exported="false" />
+251-->[com.google.android.gms:play-services-measurement:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/71585d6f7916ae5591dcff470194b4c7/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:38:13-37
+252        <service
+252-->[com.google.android.gms:play-services-measurement:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/71585d6f7916ae5591dcff470194b4c7/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:39:9-43:72
+253            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+253-->[com.google.android.gms:play-services-measurement:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/71585d6f7916ae5591dcff470194b4c7/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:40:13-87
+254            android:enabled="true"
+254-->[com.google.android.gms:play-services-measurement:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/71585d6f7916ae5591dcff470194b4c7/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:41:13-35
+255            android:exported="false"
+255-->[com.google.android.gms:play-services-measurement:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/71585d6f7916ae5591dcff470194b4c7/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:42:13-37
+256            android:permission="android.permission.BIND_JOB_SERVICE" />
+256-->[com.google.android.gms:play-services-measurement:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/71585d6f7916ae5591dcff470194b4c7/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:43:13-69
+257        <service
+257-->[com.google.android.datatransport:transport-runtime:3.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/edab92faf7c128da59f5948f6d1c016c/jetified-transport-runtime-3.0.0/AndroidManifest.xml:26:9-30:19
+258            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+258-->[com.google.android.datatransport:transport-runtime:3.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/edab92faf7c128da59f5948f6d1c016c/jetified-transport-runtime-3.0.0/AndroidManifest.xml:27:13-117
+259            android:exported="false"
+259-->[com.google.android.datatransport:transport-runtime:3.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/edab92faf7c128da59f5948f6d1c016c/jetified-transport-runtime-3.0.0/AndroidManifest.xml:28:13-37
+260            android:permission="android.permission.BIND_JOB_SERVICE" >
+260-->[com.google.android.datatransport:transport-runtime:3.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/edab92faf7c128da59f5948f6d1c016c/jetified-transport-runtime-3.0.0/AndroidManifest.xml:29:13-69
+261        </service>
+262
+263        <receiver
+263-->[com.google.android.datatransport:transport-runtime:3.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/edab92faf7c128da59f5948f6d1c016c/jetified-transport-runtime-3.0.0/AndroidManifest.xml:32:9-34:40
+264            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+264-->[com.google.android.datatransport:transport-runtime:3.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/edab92faf7c128da59f5948f6d1c016c/jetified-transport-runtime-3.0.0/AndroidManifest.xml:33:13-132
+265            android:exported="false" />
+265-->[com.google.android.datatransport:transport-runtime:3.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/edab92faf7c128da59f5948f6d1c016c/jetified-transport-runtime-3.0.0/AndroidManifest.xml:34:13-37
+266
+267        <activity
+267-->[com.google.android.gms:play-services-base:17.1.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/3b26d64f01f78af70eecbbde543be5ce/jetified-play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+268            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+268-->[com.google.android.gms:play-services-base:17.1.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/3b26d64f01f78af70eecbbde543be5ce/jetified-play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+269            android:exported="false"
+269-->[com.google.android.gms:play-services-base:17.1.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/3b26d64f01f78af70eecbbde543be5ce/jetified-play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+270            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+270-->[com.google.android.gms:play-services-base:17.1.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/3b26d64f01f78af70eecbbde543be5ce/jetified-play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+271
+272        <meta-data
+272-->[com.google.android.gms:play-services-basement:17.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/fdf784fd2c9c7bbe8b06efe893d5c23c/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+273            android:name="com.google.android.gms.version"
+273-->[com.google.android.gms:play-services-basement:17.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/fdf784fd2c9c7bbe8b06efe893d5c23c/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+274            android:value="@integer/google_play_services_version" />
+274-->[com.google.android.gms:play-services-basement:17.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/fdf784fd2c9c7bbe8b06efe893d5c23c/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+275    </application>
+276
+277</manifest>

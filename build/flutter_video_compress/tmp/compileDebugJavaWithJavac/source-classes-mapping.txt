@@ -1,0 +1,2 @@
+com/example/flutter_video_compress/BuildConfig.java
+ com.example.flutter_video_compress.BuildConfig

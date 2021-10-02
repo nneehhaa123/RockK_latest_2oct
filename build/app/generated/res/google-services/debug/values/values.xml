@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">311406576909-j5699pne65pa71098bds1bv9gevnm314.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">311406576909</string>
+    <string name="google_api_key" translatable="false">AIzaSyCKKOX4OvLwc_R_iyBS8CnFWjM22XHCafs</string>
+    <string name="google_app_id" translatable="false">1:311406576909:android:068abc53b8c490f5df1c44</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCKKOX4OvLwc_R_iyBS8CnFWjM22XHCafs</string>
+    <string name="google_storage_bucket" translatable="false">rockk-playstore.appspot.com</string>
+    <string name="project_id" translatable="false">rockk-playstore</string>
+</resources>

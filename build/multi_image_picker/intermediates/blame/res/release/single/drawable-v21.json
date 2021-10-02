@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/multi_image_picker/intermediates/res/merged/release/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/nickneha/.gradle/caches/transforms-2/files-2.1/90a480a2e811c53ef3a6926a58f41dcd/material-1.0.0/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/multi_image_picker/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/nickneha/.gradle/caches/transforms-2/files-2.1/24af5da4834a2a1bf2bca1f6631f7a5c/appcompat-1.0.0/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/multi_image_picker/intermediates/res/merged/release/drawable-v21/avd_show_password.xml",
+        "source": "/home/nickneha/.gradle/caches/transforms-2/files-2.1/90a480a2e811c53ef3a6926a58f41dcd/material-1.0.0/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/multi_image_picker/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/nickneha/.gradle/caches/transforms-2/files-2.1/24af5da4834a2a1bf2bca1f6631f7a5c/appcompat-1.0.0/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/multi_image_picker/intermediates/res/merged/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/home/nickneha/.gradle/caches/transforms-2/files-2.1/24af5da4834a2a1bf2bca1f6631f7a5c/appcompat-1.0.0/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/multi_image_picker/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/home/nickneha/.gradle/caches/transforms-2/files-2.1/dca335c69883a5773fdb54c98cfafda6/core-1.1.0/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/multi_image_picker/intermediates/res/merged/release/drawable-v21/avd_hide_password.xml",
+        "source": "/home/nickneha/.gradle/caches/transforms-2/files-2.1/90a480a2e811c53ef3a6926a58f41dcd/material-1.0.0/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/multi_image_picker/intermediates/res/merged/release/drawable-v21/design_password_eye.xml",
+        "source": "/home/nickneha/.gradle/caches/transforms-2/files-2.1/90a480a2e811c53ef3a6926a58f41dcd/material-1.0.0/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/multi_image_picker/intermediates/res/merged/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/home/nickneha/.gradle/caches/transforms-2/files-2.1/24af5da4834a2a1bf2bca1f6631f7a5c/appcompat-1.0.0/res/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/multi_image_picker/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/nickneha/.gradle/caches/transforms-2/files-2.1/24af5da4834a2a1bf2bca1f6631f7a5c/appcompat-1.0.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

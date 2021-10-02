@@ -1,0 +1,883 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:1:1-63:12
+INJECTED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:1:1-63:12
+INJECTED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:1:1-63:12
+INJECTED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:1:1-63:12
+MERGED from [:video_player] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/video_player/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:multi_image_picker] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/multi_image_picker/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_storage] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_storage/intermediates/library_manifest/release/AndroidManifest.xml:2:1-15:12
+MERGED from [:image_picker] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:2:1-19:12
+MERGED from [:flutter_plugin_android_lifecycle] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:2:1-46:12
+MERGED from [:url_launcher] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:2:1-14:12
+MERGED from [:flutter_inappwebview] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:2:1-29:12
+MERGED from [:cloud_firestore] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:2:1-15:12
+MERGED from [:shared_preferences] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/shared_preferences/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_absolute_path] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/flutter_absolute_path/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_core] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:2:1-15:12
+MERGED from [:twinkle_button] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/twinkle_button/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.sangcomz:FishBun:0.11.2] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b469436221e1bb83d5a99bacad7c6c7d/jetified-FishBun-0.11.2/AndroidManifest.xml:2:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/ae3ce6e6c8d10ee14cc8becea1d08881/jetified-firebase-analytics-19.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.multidex:multidex:2.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/f3060f7e9dcd69b7869f77879b4b6901/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/316038eeded89ec4c4b5ce5789a519f1/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:17:1-58:12
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/95a3e9009b7f95cf657828014997a445/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/fea5b7bda5c79f163ce32e8c27a81771/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/ed52864e61930e553d8c9f504bf740a9/jetified-firebase-encoders-json-18.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-firestore:23.0.1] /home/nickneha/.gradle/caches/transforms-2/files-2.1/0f5a66da1613175e2aa079b047cbe31c/jetified-firebase-firestore-23.0.1/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-storage:20.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/4b82aa24a3d3d716360de72484311df6/jetified-firebase-storage-20.0.0/AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/31910f11ba510bc160c976e69225e48a/jetified-play-services-measurement-api-19.0.0/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta01] /home/nickneha/.gradle/caches/transforms-2/files-2.1/961b3c3a404c16a37da8ff1fa30b025d/jetified-firebase-appcheck-interop-16.0.0-beta01/AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/f5f5d91b30b28a3f2289fe3dbd65d501/jetified-firebase-installations-17.0.0/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] /home/nickneha/.gradle/caches/transforms-2/files-2.1/6345c93561942b32594929b150d04f0b/jetified-firebase-auth-interop-19.0.2/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:20.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b812895ce66149ff126824ce4bae7c29/jetified-firebase-common-20.0.0/AndroidManifest.xml:15:1-40:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.12.1] /home/nickneha/.gradle/caches/transforms-2/files-2.1/ffc01e48b58032707a520b296fe21c54/jetified-exoplayer-hls-2.12.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.12.1] /home/nickneha/.gradle/caches/transforms-2/files-2.1/47e5bd07a2c85dd89cae42cd0c08b9ba/jetified-exoplayer-dash-2.12.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.12.1] /home/nickneha/.gradle/caches/transforms-2/files-2.1/eec80858e062014e82dca610f5e6e3ab/jetified-exoplayer-smoothstreaming-2.12.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.12.1] /home/nickneha/.gradle/caches/transforms-2/files-2.1/ae1994392c8a9309ed9334212455fdf9/jetified-exoplayer-core-2.12.1/AndroidManifest.xml:17:1-26:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/08c18069dea9813e7f9404fee9840107/jetified-glide-4.11.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.1] /home/nickneha/.gradle/caches/transforms-2/files-2.1/c76669c963212e3643b71a85e8c16f75/exifinterface-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/71585d6f7916ae5591dcff470194b4c7/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/c900017d1e9604b270a2690697af94a5/jetified-play-services-measurement-sdk-19.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/abc5de12cc46dff18bff1f790b105849/jetified-play-services-measurement-impl-19.0.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/9ca0baae9337cc42673ef8bed92bb482/jetified-play-services-stats-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/90a480a2e811c53ef3a6926a58f41dcd/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/ced74f312314a33a7f6bb30128ea9158/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/7a86e11a1d5b5cf9e19f0563d6c778f7/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/d86f45936bf9a2ddc4172d1c53427846/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/9f5ef95b71db4d712781e14f44869a8a/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.webkit:webkit:1.4.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/399a3336e9fbcdc9e2bbe98965c3c6cf/webkit-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.3.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/f7e6f5cfd4e877a207ef24abae495a58/browser-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/425f9a872b7e7dcd99452dcc4c269641/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/71f3140f3e7712408537791d6dc16d97/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/edab92faf7c128da59f5948f6d1c016c/jetified-transport-runtime-3.0.0/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/a1c775e1c64ef75903cd9c74a8735e01/jetified-transport-api-3.0.0/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/e8a5463504c60b9fcf81a48e1713fa66/jetified-firebase-components-17.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.12.1] /home/nickneha/.gradle/caches/transforms-2/files-2.1/818443f4ac6093054b99ce6f5fd335b3/jetified-exoplayer-extractor-2.12.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.12.1] /home/nickneha/.gradle/caches/transforms-2/files-2.1/8286105be7eeeb94a3b0b216270ace88/jetified-exoplayer-common-2.12.1/AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/83d66e12d783d71823bf7c85fdc5363d/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/3eb29e003267bfd13482996bb903c1fd/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/bbd2f9c19a9ca175681eaf23f24bfac0/jetified-firebase-installations-interop-17.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/160937ce0290b2f4b5d078112f36d7c3/jetified-firebase-database-collection-18.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/3b26d64f01f78af70eecbbde543be5ce/jetified-play-services-base-17.1.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/d8839a001338d8c5ec76798fe3734863/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/9aaecc54d78e6cd8795e78f00e190577/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/c7b42f94c40b5a64ac116638ac5e4e26/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/e3864ef6f19b3626e147f34a59e9dd62/jetified-play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/884924f5f02f48b1989eded44b9879d7/jetified-play-services-measurement-base-19.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/fdf784fd2c9c7bbe8b06efe893d5c23c/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/1dd252e2ff89f3084476b491248dd61a/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/dfd3b49ce8ce5e1af1879ebf51e88cd7/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b67aa35856b38657f5fe06a7dfe4ef25/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/0373331775b0de5901b373a595227bc8/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/963905c376e05357049a8cd23850a7ba/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b49eb84b27a0e1e4ee3447845cffcd67/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/a6104449b98c36cde3a88160ae6c888a/transition-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/09cca135e8dcc13a0884e9649cdccbf2/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/9ed85492aec9bf32acf2049060fc9326/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/a67bc3fa94474a789c8f04432565dbec/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/313a75ee6861bba826ea760d2021a670/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/2b3f76c20513d5a9f399c8244550e12a/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/a6b41deb1c652593669f90613fc62662/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/c043bf77478be124f7b1d8e6cf6905f9/core-1.3.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/9f9cf4fc44600893471b676e00643f94/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/c0722c9f45772309f4df930aa7f38f6d/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/2f14c884a0dfc938f8427d6733fbf836/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/8eddfee7a0d4d49f0e8205e7916ce796/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/df606d17e15e2850cd966be4e06243a7/jetified-gifdecoder-4.11.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/4285e821a8c2a48026b1ddf9ba2f8839/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/44574a47ec71467c4e681432023f2fe4/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/a56cf88308cabe1edf4d6b1884f26739/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/f97c4a70d611e87fed996bfdf0d2b2f7/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/ccd490f88425b7a1fedcfe352b61d68e/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/e9055d2f822bb19ab060ab1ee5b105b0/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/d57b48003255b5f3cd5d84d587aab194/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/e22280ea8b25f1cf947e4983462b1d38/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/nickneha/.gradle/caches/transforms-2/files-2.1/30bf8e8a3a3800d5854752d40b95abee/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [io.grpc:grpc-android:1.28.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/75c38ec28a0f40a46e84ce69659fe38f/jetified-grpc-android-1.28.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/934d41413dc3f3c40283665c7855905f/jetified-protolite-well-known-types-18.0.0/AndroidManifest.xml:2:1-11:12
+INJECTED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:1:1-63:12
+INJECTED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:1:1-63:12
+INJECTED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:1:1-63:12
+	package
+		ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:2:5-35
+		INJECTED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:1:1-63:12
+		INJECTED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:1:1-63:12
+		INJECTED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:1:11-69
+queries
+ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:4:5-10:15
+MERGED from [:flutter_inappwebview] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:7:5-11:15
+MERGED from [:flutter_inappwebview] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:7:5-11:15
+intent
+ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:6:9-9:18
+action#android.intent.action.VIEW
+ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:7:13-65
+	android:name
+		ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:7:21-62
+data
+ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:8:13-44
+	android:scheme
+		ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:8:19-41
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:13:5-78
+	android:name
+		ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.QUERY_ALL_PACKAGES
+ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:14:22-74
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:15:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:16:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:17:5-67
+MERGED from [:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:7:5-67
+MERGED from [:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/fea5b7bda5c79f163ce32e8c27a81771/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/fea5b7bda5c79f163ce32e8c27a81771/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-firestore:23.0.1] /home/nickneha/.gradle/caches/transforms-2/files-2.1/0f5a66da1613175e2aa079b047cbe31c/jetified-firebase-firestore-23.0.1/AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:23.0.1] /home/nickneha/.gradle/caches/transforms-2/files-2.1/0f5a66da1613175e2aa079b047cbe31c/jetified-firebase-firestore-23.0.1/AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-storage:20.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/4b82aa24a3d3d716360de72484311df6/jetified-firebase-storage-20.0.0/AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-storage:20.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/4b82aa24a3d3d716360de72484311df6/jetified-firebase-storage-20.0.0/AndroidManifest.xml:27:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/31910f11ba510bc160c976e69225e48a/jetified-play-services-measurement-api-19.0.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/31910f11ba510bc160c976e69225e48a/jetified-play-services-measurement-api-19.0.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/f5f5d91b30b28a3f2289fe3dbd65d501/jetified-firebase-installations-17.0.0/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/f5f5d91b30b28a3f2289fe3dbd65d501/jetified-firebase-installations-17.0.0/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/71585d6f7916ae5591dcff470194b4c7/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/71585d6f7916ae5591dcff470194b4c7/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/abc5de12cc46dff18bff1f790b105849/jetified-play-services-measurement-impl-19.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/abc5de12cc46dff18bff1f790b105849/jetified-play-services-measurement-impl-19.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/83d66e12d783d71823bf7c85fdc5363d/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/83d66e12d783d71823bf7c85fdc5363d/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/e3864ef6f19b3626e147f34a59e9dd62/jetified-play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/e3864ef6f19b3626e147f34a59e9dd62/jetified-play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:17:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:18:5-65
+	android:name
+		ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:18:22-62
+uses-permission#android.permission.FLASHLIGHT
+ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:19:5-69
+	android:name
+		ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:19:22-66
+application
+ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:20:4-62:19
+MERGED from [:firebase_storage] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_storage/intermediates/library_manifest/release/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_storage] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_storage/intermediates/library_manifest/release/AndroidManifest.xml:7:5-13:19
+MERGED from [:image_picker] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:7:5-17:19
+MERGED from [:image_picker] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:7:5-17:19
+MERGED from [:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:11:5-44:19
+MERGED from [:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:11:5-44:19
+MERGED from [:url_launcher] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:7:5-12:19
+MERGED from [:flutter_inappwebview] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:13:5-27:19
+MERGED from [:flutter_inappwebview] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:13:5-27:19
+MERGED from [:cloud_firestore] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:7:5-13:19
+MERGED from [:cloud_firestore] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:7:5-13:19
+MERGED from [com.sangcomz:FishBun:0.11.2] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b469436221e1bb83d5a99bacad7c6c7d/jetified-FishBun-0.11.2/AndroidManifest.xml:11:5-32:19
+MERGED from [com.sangcomz:FishBun:0.11.2] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b469436221e1bb83d5a99bacad7c6c7d/jetified-FishBun-0.11.2/AndroidManifest.xml:11:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/ae3ce6e6c8d10ee14cc8becea1d08881/jetified-firebase-analytics-19.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/ae3ce6e6c8d10ee14cc8becea1d08881/jetified-firebase-analytics-19.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/316038eeded89ec4c4b5ce5789a519f1/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:27:5-56:19
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/316038eeded89ec4c4b5ce5789a519f1/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:27:5-56:19
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/95a3e9009b7f95cf657828014997a445/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/95a3e9009b7f95cf657828014997a445/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/fea5b7bda5c79f163ce32e8c27a81771/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/fea5b7bda5c79f163ce32e8c27a81771/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-firestore:23.0.1] /home/nickneha/.gradle/caches/transforms-2/files-2.1/0f5a66da1613175e2aa079b047cbe31c/jetified-firebase-firestore-23.0.1/AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:23.0.1] /home/nickneha/.gradle/caches/transforms-2/files-2.1/0f5a66da1613175e2aa079b047cbe31c/jetified-firebase-firestore-23.0.1/AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-storage:20.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/4b82aa24a3d3d716360de72484311df6/jetified-firebase-storage-20.0.0/AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-storage:20.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/4b82aa24a3d3d716360de72484311df6/jetified-firebase-storage-20.0.0/AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/31910f11ba510bc160c976e69225e48a/jetified-play-services-measurement-api-19.0.0/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/31910f11ba510bc160c976e69225e48a/jetified-play-services-measurement-api-19.0.0/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta01] /home/nickneha/.gradle/caches/transforms-2/files-2.1/961b3c3a404c16a37da8ff1fa30b025d/jetified-firebase-appcheck-interop-16.0.0-beta01/AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta01] /home/nickneha/.gradle/caches/transforms-2/files-2.1/961b3c3a404c16a37da8ff1fa30b025d/jetified-firebase-appcheck-interop-16.0.0-beta01/AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/f5f5d91b30b28a3f2289fe3dbd65d501/jetified-firebase-installations-17.0.0/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/f5f5d91b30b28a3f2289fe3dbd65d501/jetified-firebase-installations-17.0.0/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] /home/nickneha/.gradle/caches/transforms-2/files-2.1/6345c93561942b32594929b150d04f0b/jetified-firebase-auth-interop-19.0.2/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] /home/nickneha/.gradle/caches/transforms-2/files-2.1/6345c93561942b32594929b150d04f0b/jetified-firebase-auth-interop-19.0.2/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b812895ce66149ff126824ce4bae7c29/jetified-firebase-common-20.0.0/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b812895ce66149ff126824ce4bae7c29/jetified-firebase-common-20.0.0/AndroidManifest.xml:25:5-38:19
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/08c18069dea9813e7f9404fee9840107/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/08c18069dea9813e7f9404fee9840107/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/71585d6f7916ae5591dcff470194b4c7/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/71585d6f7916ae5591dcff470194b4c7/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/c900017d1e9604b270a2690697af94a5/jetified-play-services-measurement-sdk-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/c900017d1e9604b270a2690697af94a5/jetified-play-services-measurement-sdk-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/abc5de12cc46dff18bff1f790b105849/jetified-play-services-measurement-impl-19.0.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/abc5de12cc46dff18bff1f790b105849/jetified-play-services-measurement-impl-19.0.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/9ca0baae9337cc42673ef8bed92bb482/jetified-play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/9ca0baae9337cc42673ef8bed92bb482/jetified-play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/90a480a2e811c53ef3a6926a58f41dcd/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/90a480a2e811c53ef3a6926a58f41dcd/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/edab92faf7c128da59f5948f6d1c016c/jetified-transport-runtime-3.0.0/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/edab92faf7c128da59f5948f6d1c016c/jetified-transport-runtime-3.0.0/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/3eb29e003267bfd13482996bb903c1fd/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/3eb29e003267bfd13482996bb903c1fd/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/3b26d64f01f78af70eecbbde543be5ce/jetified-play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/3b26d64f01f78af70eecbbde543be5ce/jetified-play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/d8839a001338d8c5ec76798fe3734863/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/d8839a001338d8c5ec76798fe3734863/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/9aaecc54d78e6cd8795e78f00e190577/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/9aaecc54d78e6cd8795e78f00e190577/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/c7b42f94c40b5a64ac116638ac5e4e26/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/c7b42f94c40b5a64ac116638ac5e4e26/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/884924f5f02f48b1989eded44b9879d7/jetified-play-services-measurement-base-19.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/884924f5f02f48b1989eded44b9879d7/jetified-play-services-measurement-base-19.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/fdf784fd2c9c7bbe8b06efe893d5c23c/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/fdf784fd2c9c7bbe8b06efe893d5c23c/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.3.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/c043bf77478be124f7b1d8e6cf6905f9/core-1.3.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/c043bf77478be124f7b1d8e6cf6905f9/core-1.3.0/AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/df606d17e15e2850cd966be4e06243a7/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/df606d17e15e2850cd966be4e06243a7/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/4285e821a8c2a48026b1ddf9ba2f8839/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/4285e821a8c2a48026b1ddf9ba2f8839/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/nickneha/.gradle/caches/transforms-2/files-2.1/30bf8e8a3a3800d5854752d40b95abee/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/nickneha/.gradle/caches/transforms-2/files-2.1/30bf8e8a3a3800d5854752d40b95abee/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+	android:requestLegacyExternalStorage
+		ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:23:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/c043bf77478be124f7b1d8e6cf6905f9/core-1.3.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:21:9-30
+	android:icon
+		ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:22:9-43
+activity#com.partyshifu.RockK.MainActivity
+ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:24:9-56:20
+	android:launchMode
+		ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:26:13-43
+	android:hardwareAccelerated
+		ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:29:13-47
+	android:windowSoftInputMode
+		ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:30:13-55
+	android:configChanges
+		ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:28:13-163
+	android:theme
+		ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:27:13-47
+	android:name
+		ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:25:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:35:13-38:17
+	android:resource
+		ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:37:15-52
+	android:name
+		ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:36:15-70
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:44:13-47:17
+	android:resource
+		ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:46:15-61
+	android:name
+		ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:45:15-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:48:13-51:29
+action#android.intent.action.MAIN
+ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:49:17-68
+	android:name
+		ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:49:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:50:17-76
+	android:name
+		ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:50:27-74
+intent-filter#action:name:FLUTTER_NOTIFICATION_CLICL+category:name:android.intent.category.DEFAULT
+ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:52:13-55:29
+action#FLUTTER_NOTIFICATION_CLICL
+ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:53:17-68
+	android:name
+		ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:53:25-66
+category#android.intent.category.DEFAULT
+ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:54:17-75
+	android:name
+		ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:54:27-73
+meta-data#flutterEmbedding
+ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:59:9-61:33
+	android:value
+		ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:61:13-30
+	android:name
+		ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml:60:13-44
+uses-sdk
+INJECTED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml
+MERGED from [:video_player] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/video_player/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:video_player] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/video_player/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:multi_image_picker] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/multi_image_picker/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:multi_image_picker] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/multi_image_picker/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_storage] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_storage/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_storage] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_storage/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_inappwebview] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_inappwebview] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/shared_preferences/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/shared_preferences/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_absolute_path] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/flutter_absolute_path/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_absolute_path] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/flutter_absolute_path/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:twinkle_button] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/twinkle_button/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:twinkle_button] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/twinkle_button/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [com.sangcomz:FishBun:0.11.2] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b469436221e1bb83d5a99bacad7c6c7d/jetified-FishBun-0.11.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.sangcomz:FishBun:0.11.2] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b469436221e1bb83d5a99bacad7c6c7d/jetified-FishBun-0.11.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/ae3ce6e6c8d10ee14cc8becea1d08881/jetified-firebase-analytics-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/ae3ce6e6c8d10ee14cc8becea1d08881/jetified-firebase-analytics-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.multidex:multidex:2.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/f3060f7e9dcd69b7869f77879b4b6901/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/f3060f7e9dcd69b7869f77879b4b6901/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/316038eeded89ec4c4b5ce5789a519f1/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/316038eeded89ec4c4b5ce5789a519f1/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/95a3e9009b7f95cf657828014997a445/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/95a3e9009b7f95cf657828014997a445/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/fea5b7bda5c79f163ce32e8c27a81771/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/fea5b7bda5c79f163ce32e8c27a81771/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/ed52864e61930e553d8c9f504bf740a9/jetified-firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/ed52864e61930e553d8c9f504bf740a9/jetified-firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-firestore:23.0.1] /home/nickneha/.gradle/caches/transforms-2/files-2.1/0f5a66da1613175e2aa079b047cbe31c/jetified-firebase-firestore-23.0.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:23.0.1] /home/nickneha/.gradle/caches/transforms-2/files-2.1/0f5a66da1613175e2aa079b047cbe31c/jetified-firebase-firestore-23.0.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-storage:20.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/4b82aa24a3d3d716360de72484311df6/jetified-firebase-storage-20.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-storage:20.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/4b82aa24a3d3d716360de72484311df6/jetified-firebase-storage-20.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/31910f11ba510bc160c976e69225e48a/jetified-play-services-measurement-api-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/31910f11ba510bc160c976e69225e48a/jetified-play-services-measurement-api-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta01] /home/nickneha/.gradle/caches/transforms-2/files-2.1/961b3c3a404c16a37da8ff1fa30b025d/jetified-firebase-appcheck-interop-16.0.0-beta01/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta01] /home/nickneha/.gradle/caches/transforms-2/files-2.1/961b3c3a404c16a37da8ff1fa30b025d/jetified-firebase-appcheck-interop-16.0.0-beta01/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/f5f5d91b30b28a3f2289fe3dbd65d501/jetified-firebase-installations-17.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/f5f5d91b30b28a3f2289fe3dbd65d501/jetified-firebase-installations-17.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] /home/nickneha/.gradle/caches/transforms-2/files-2.1/6345c93561942b32594929b150d04f0b/jetified-firebase-auth-interop-19.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] /home/nickneha/.gradle/caches/transforms-2/files-2.1/6345c93561942b32594929b150d04f0b/jetified-firebase-auth-interop-19.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:20.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b812895ce66149ff126824ce4bae7c29/jetified-firebase-common-20.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b812895ce66149ff126824ce4bae7c29/jetified-firebase-common-20.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.12.1] /home/nickneha/.gradle/caches/transforms-2/files-2.1/ffc01e48b58032707a520b296fe21c54/jetified-exoplayer-hls-2.12.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.12.1] /home/nickneha/.gradle/caches/transforms-2/files-2.1/ffc01e48b58032707a520b296fe21c54/jetified-exoplayer-hls-2.12.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.12.1] /home/nickneha/.gradle/caches/transforms-2/files-2.1/47e5bd07a2c85dd89cae42cd0c08b9ba/jetified-exoplayer-dash-2.12.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.12.1] /home/nickneha/.gradle/caches/transforms-2/files-2.1/47e5bd07a2c85dd89cae42cd0c08b9ba/jetified-exoplayer-dash-2.12.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.12.1] /home/nickneha/.gradle/caches/transforms-2/files-2.1/eec80858e062014e82dca610f5e6e3ab/jetified-exoplayer-smoothstreaming-2.12.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.12.1] /home/nickneha/.gradle/caches/transforms-2/files-2.1/eec80858e062014e82dca610f5e6e3ab/jetified-exoplayer-smoothstreaming-2.12.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.12.1] /home/nickneha/.gradle/caches/transforms-2/files-2.1/ae1994392c8a9309ed9334212455fdf9/jetified-exoplayer-core-2.12.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.12.1] /home/nickneha/.gradle/caches/transforms-2/files-2.1/ae1994392c8a9309ed9334212455fdf9/jetified-exoplayer-core-2.12.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/08c18069dea9813e7f9404fee9840107/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/08c18069dea9813e7f9404fee9840107/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.1] /home/nickneha/.gradle/caches/transforms-2/files-2.1/c76669c963212e3643b71a85e8c16f75/exifinterface-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.1] /home/nickneha/.gradle/caches/transforms-2/files-2.1/c76669c963212e3643b71a85e8c16f75/exifinterface-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/71585d6f7916ae5591dcff470194b4c7/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/71585d6f7916ae5591dcff470194b4c7/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/c900017d1e9604b270a2690697af94a5/jetified-play-services-measurement-sdk-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/c900017d1e9604b270a2690697af94a5/jetified-play-services-measurement-sdk-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/abc5de12cc46dff18bff1f790b105849/jetified-play-services-measurement-impl-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/abc5de12cc46dff18bff1f790b105849/jetified-play-services-measurement-impl-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/9ca0baae9337cc42673ef8bed92bb482/jetified-play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/9ca0baae9337cc42673ef8bed92bb482/jetified-play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/90a480a2e811c53ef3a6926a58f41dcd/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/90a480a2e811c53ef3a6926a58f41dcd/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/ced74f312314a33a7f6bb30128ea9158/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/ced74f312314a33a7f6bb30128ea9158/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/7a86e11a1d5b5cf9e19f0563d6c778f7/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/7a86e11a1d5b5cf9e19f0563d6c778f7/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/d86f45936bf9a2ddc4172d1c53427846/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/d86f45936bf9a2ddc4172d1c53427846/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/9f5ef95b71db4d712781e14f44869a8a/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/9f5ef95b71db4d712781e14f44869a8a/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.4.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/399a3336e9fbcdc9e2bbe98965c3c6cf/webkit-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.4.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/399a3336e9fbcdc9e2bbe98965c3c6cf/webkit-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.3.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/f7e6f5cfd4e877a207ef24abae495a58/browser-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.3.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/f7e6f5cfd4e877a207ef24abae495a58/browser-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/425f9a872b7e7dcd99452dcc4c269641/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/425f9a872b7e7dcd99452dcc4c269641/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/71f3140f3e7712408537791d6dc16d97/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/71f3140f3e7712408537791d6dc16d97/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/edab92faf7c128da59f5948f6d1c016c/jetified-transport-runtime-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/edab92faf7c128da59f5948f6d1c016c/jetified-transport-runtime-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/a1c775e1c64ef75903cd9c74a8735e01/jetified-transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/a1c775e1c64ef75903cd9c74a8735e01/jetified-transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/e8a5463504c60b9fcf81a48e1713fa66/jetified-firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/e8a5463504c60b9fcf81a48e1713fa66/jetified-firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.12.1] /home/nickneha/.gradle/caches/transforms-2/files-2.1/818443f4ac6093054b99ce6f5fd335b3/jetified-exoplayer-extractor-2.12.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.12.1] /home/nickneha/.gradle/caches/transforms-2/files-2.1/818443f4ac6093054b99ce6f5fd335b3/jetified-exoplayer-extractor-2.12.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.12.1] /home/nickneha/.gradle/caches/transforms-2/files-2.1/8286105be7eeeb94a3b0b216270ace88/jetified-exoplayer-common-2.12.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.12.1] /home/nickneha/.gradle/caches/transforms-2/files-2.1/8286105be7eeeb94a3b0b216270ace88/jetified-exoplayer-common-2.12.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/83d66e12d783d71823bf7c85fdc5363d/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/83d66e12d783d71823bf7c85fdc5363d/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/3eb29e003267bfd13482996bb903c1fd/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/3eb29e003267bfd13482996bb903c1fd/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/bbd2f9c19a9ca175681eaf23f24bfac0/jetified-firebase-installations-interop-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/bbd2f9c19a9ca175681eaf23f24bfac0/jetified-firebase-installations-interop-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/160937ce0290b2f4b5d078112f36d7c3/jetified-firebase-database-collection-18.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/160937ce0290b2f4b5d078112f36d7c3/jetified-firebase-database-collection-18.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/3b26d64f01f78af70eecbbde543be5ce/jetified-play-services-base-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/3b26d64f01f78af70eecbbde543be5ce/jetified-play-services-base-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/d8839a001338d8c5ec76798fe3734863/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/d8839a001338d8c5ec76798fe3734863/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/9aaecc54d78e6cd8795e78f00e190577/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/9aaecc54d78e6cd8795e78f00e190577/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/c7b42f94c40b5a64ac116638ac5e4e26/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/c7b42f94c40b5a64ac116638ac5e4e26/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/e3864ef6f19b3626e147f34a59e9dd62/jetified-play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/e3864ef6f19b3626e147f34a59e9dd62/jetified-play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/884924f5f02f48b1989eded44b9879d7/jetified-play-services-measurement-base-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/884924f5f02f48b1989eded44b9879d7/jetified-play-services-measurement-base-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/fdf784fd2c9c7bbe8b06efe893d5c23c/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/fdf784fd2c9c7bbe8b06efe893d5c23c/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/1dd252e2ff89f3084476b491248dd61a/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/1dd252e2ff89f3084476b491248dd61a/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/dfd3b49ce8ce5e1af1879ebf51e88cd7/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/dfd3b49ce8ce5e1af1879ebf51e88cd7/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b67aa35856b38657f5fe06a7dfe4ef25/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b67aa35856b38657f5fe06a7dfe4ef25/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/0373331775b0de5901b373a595227bc8/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/0373331775b0de5901b373a595227bc8/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/963905c376e05357049a8cd23850a7ba/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/963905c376e05357049a8cd23850a7ba/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b49eb84b27a0e1e4ee3447845cffcd67/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b49eb84b27a0e1e4ee3447845cffcd67/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/a6104449b98c36cde3a88160ae6c888a/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/a6104449b98c36cde3a88160ae6c888a/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/09cca135e8dcc13a0884e9649cdccbf2/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/09cca135e8dcc13a0884e9649cdccbf2/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/9ed85492aec9bf32acf2049060fc9326/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/9ed85492aec9bf32acf2049060fc9326/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/a67bc3fa94474a789c8f04432565dbec/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/a67bc3fa94474a789c8f04432565dbec/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/313a75ee6861bba826ea760d2021a670/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/313a75ee6861bba826ea760d2021a670/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/2b3f76c20513d5a9f399c8244550e12a/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/2b3f76c20513d5a9f399c8244550e12a/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/a6b41deb1c652593669f90613fc62662/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/a6b41deb1c652593669f90613fc62662/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/c043bf77478be124f7b1d8e6cf6905f9/core-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/c043bf77478be124f7b1d8e6cf6905f9/core-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/9f9cf4fc44600893471b676e00643f94/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/9f9cf4fc44600893471b676e00643f94/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/c0722c9f45772309f4df930aa7f38f6d/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/c0722c9f45772309f4df930aa7f38f6d/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/2f14c884a0dfc938f8427d6733fbf836/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/2f14c884a0dfc938f8427d6733fbf836/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/8eddfee7a0d4d49f0e8205e7916ce796/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/8eddfee7a0d4d49f0e8205e7916ce796/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/df606d17e15e2850cd966be4e06243a7/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/df606d17e15e2850cd966be4e06243a7/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/4285e821a8c2a48026b1ddf9ba2f8839/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/4285e821a8c2a48026b1ddf9ba2f8839/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/44574a47ec71467c4e681432023f2fe4/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/44574a47ec71467c4e681432023f2fe4/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/a56cf88308cabe1edf4d6b1884f26739/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/a56cf88308cabe1edf4d6b1884f26739/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/f97c4a70d611e87fed996bfdf0d2b2f7/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/f97c4a70d611e87fed996bfdf0d2b2f7/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/ccd490f88425b7a1fedcfe352b61d68e/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/ccd490f88425b7a1fedcfe352b61d68e/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/e9055d2f822bb19ab060ab1ee5b105b0/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/e9055d2f822bb19ab060ab1ee5b105b0/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/d57b48003255b5f3cd5d84d587aab194/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/d57b48003255b5f3cd5d84d587aab194/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/e22280ea8b25f1cf947e4983462b1d38/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/e22280ea8b25f1cf947e4983462b1d38/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/nickneha/.gradle/caches/transforms-2/files-2.1/30bf8e8a3a3800d5854752d40b95abee/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/nickneha/.gradle/caches/transforms-2/files-2.1/30bf8e8a3a3800d5854752d40b95abee/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [io.grpc:grpc-android:1.28.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/75c38ec28a0f40a46e84ce69659fe38f/jetified-grpc-android-1.28.0/AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.28.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/75c38ec28a0f40a46e84ce69659fe38f/jetified-grpc-android-1.28.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/934d41413dc3f3c40283665c7855905f/jetified-protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/934d41413dc3f3c40283665c7855905f/jetified-protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/android/app/src/main/AndroidManifest.xml
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:firebase_storage] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_storage/intermediates/library_manifest/release/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:33:9-37:19
+MERGED from [:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:33:9-37:19
+MERGED from [:cloud_firestore] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:8:9-12:19
+MERGED from [:cloud_firestore] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/316038eeded89ec4c4b5ce5789a519f1/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:49:9-55:19
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/316038eeded89ec4c4b5ce5789a519f1/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:49:9-55:19
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/95a3e9009b7f95cf657828014997a445/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-datatransport:18.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/95a3e9009b7f95cf657828014997a445/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-firestore:23.0.1] /home/nickneha/.gradle/caches/transforms-2/files-2.1/0f5a66da1613175e2aa079b047cbe31c/jetified-firebase-firestore-23.0.1/AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:23.0.1] /home/nickneha/.gradle/caches/transforms-2/files-2.1/0f5a66da1613175e2aa079b047cbe31c/jetified-firebase-firestore-23.0.1/AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-storage:20.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/4b82aa24a3d3d716360de72484311df6/jetified-firebase-storage-20.0.0/AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-storage:20.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/4b82aa24a3d3d716360de72484311df6/jetified-firebase-storage-20.0.0/AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/31910f11ba510bc160c976e69225e48a/jetified-play-services-measurement-api-19.0.0/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/31910f11ba510bc160c976e69225e48a/jetified-play-services-measurement-api-19.0.0/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/f5f5d91b30b28a3f2289fe3dbd65d501/jetified-firebase-installations-17.0.0/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/f5f5d91b30b28a3f2289fe3dbd65d501/jetified-firebase-installations-17.0.0/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b812895ce66149ff126824ce4bae7c29/jetified-firebase-common-20.0.0/AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b812895ce66149ff126824ce4bae7c29/jetified-firebase-common-20.0.0/AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/316038eeded89ec4c4b5ce5789a519f1/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:51:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b812895ce66149ff126824ce4bae7c29/jetified-firebase-common-20.0.0/AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b812895ce66149ff126824ce4bae7c29/jetified-firebase-common-20.0.0/AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [:firebase_storage] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_storage/intermediates/library_manifest/release/AndroidManifest.xml:8:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.storage.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_storage] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_storage/intermediates/library_manifest/release/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_storage] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_storage/intermediates/library_manifest/release/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_storage] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_storage/intermediates/library_manifest/release/AndroidManifest.xml:10:17-126
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:8:9-16:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:12:13-47
+	android:authorities
+		ADDED from [:image_picker] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:10:13-74
+	android:exported
+		ADDED from [:image_picker] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [:image_picker] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:9:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:13:13-15:75
+	android:resource
+		ADDED from [:image_picker] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:15:17-72
+	android:name
+		ADDED from [:image_picker] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:14:17-67
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:8:5-68
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/316038eeded89ec4c4b5ce5789a519f1/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:23:5-68
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/316038eeded89ec4c4b5ce5789a519f1/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:23:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/31910f11ba510bc160c976e69225e48a/jetified-play-services-measurement-api-19.0.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/31910f11ba510bc160c976e69225e48a/jetified-play-services-measurement-api-19.0.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/71585d6f7916ae5591dcff470194b4c7/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/71585d6f7916ae5591dcff470194b4c7/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/abc5de12cc46dff18bff1f790b105849/jetified-play-services-measurement-impl-19.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/abc5de12cc46dff18bff1f790b105849/jetified-play-services-measurement-impl-19.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/83d66e12d783d71823bf7c85fdc5363d/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/83d66e12d783d71823bf7c85fdc5363d/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/e3864ef6f19b3626e147f34a59e9dd62/jetified-play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/e3864ef6f19b3626e147f34a59e9dd62/jetified-play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:8:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:9:5-79
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/316038eeded89ec4c4b5ce5789a519f1/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/316038eeded89ec4c4b5ce5789a519f1/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/fea5b7bda5c79f163ce32e8c27a81771/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/fea5b7bda5c79f163ce32e8c27a81771/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-firestore:23.0.1] /home/nickneha/.gradle/caches/transforms-2/files-2.1/0f5a66da1613175e2aa079b047cbe31c/jetified-firebase-firestore-23.0.1/AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-firestore:23.0.1] /home/nickneha/.gradle/caches/transforms-2/files-2.1/0f5a66da1613175e2aa079b047cbe31c/jetified-firebase-firestore-23.0.1/AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-storage:20.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/4b82aa24a3d3d716360de72484311df6/jetified-firebase-storage-20.0.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-storage:20.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/4b82aa24a3d3d716360de72484311df6/jetified-firebase-storage-20.0.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/31910f11ba510bc160c976e69225e48a/jetified-play-services-measurement-api-19.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/31910f11ba510bc160c976e69225e48a/jetified-play-services-measurement-api-19.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/f5f5d91b30b28a3f2289fe3dbd65d501/jetified-firebase-installations-17.0.0/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/f5f5d91b30b28a3f2289fe3dbd65d501/jetified-firebase-installations-17.0.0/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.12.1] /home/nickneha/.gradle/caches/transforms-2/files-2.1/ae1994392c8a9309ed9334212455fdf9/jetified-exoplayer-core-2.12.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.12.1] /home/nickneha/.gradle/caches/transforms-2/files-2.1/ae1994392c8a9309ed9334212455fdf9/jetified-exoplayer-core-2.12.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/71585d6f7916ae5591dcff470194b4c7/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/71585d6f7916ae5591dcff470194b4c7/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/abc5de12cc46dff18bff1f790b105849/jetified-play-services-measurement-impl-19.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/abc5de12cc46dff18bff1f790b105849/jetified-play-services-measurement-impl-19.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/edab92faf7c128da59f5948f6d1c016c/jetified-transport-runtime-3.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/edab92faf7c128da59f5948f6d1c016c/jetified-transport-runtime-3.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.12.1] /home/nickneha/.gradle/caches/transforms-2/files-2.1/8286105be7eeeb94a3b0b216270ace88/jetified-exoplayer-common-2.12.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.12.1] /home/nickneha/.gradle/caches/transforms-2/files-2.1/8286105be7eeeb94a3b0b216270ace88/jetified-exoplayer-common-2.12.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/83d66e12d783d71823bf7c85fdc5363d/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/83d66e12d783d71823bf7c85fdc5363d/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/e3864ef6f19b3626e147f34a59e9dd62/jetified-play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/e3864ef6f19b3626e147f34a59e9dd62/jetified-play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:24:5-79
+MERGED from [io.grpc:grpc-android:1.28.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/75c38ec28a0f40a46e84ce69659fe38f/jetified-grpc-android-1.28.0/AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.28.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/75c38ec28a0f40a46e84ce69659fe38f/jetified-grpc-android-1.28.0/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:9:22-76
+service#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingBackgroundService
+ADDED from [:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:12:9-15:72
+	android:exported
+		ADDED from [:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:14:13-37
+	android:permission
+		ADDED from [:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:15:13-69
+	android:name
+		ADDED from [:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:13:13-107
+service#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingService
+ADDED from [:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:16:9-22:19
+	android:exported
+		ADDED from [:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:17:13-97
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:19:13-21:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:20:17-78
+	android:name
+		ADDED from [:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:20:25-75
+receiver#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingReceiver
+ADDED from [:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:24:9-31:20
+	android:exported
+		ADDED from [:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:27:13-73
+	android:name
+		ADDED from [:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:25:13-98
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:28:13-30:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:29:17-81
+	android:name
+		ADDED from [:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:29:25-78
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.messaging.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:34:13-36:85
+	android:value
+		ADDED from [:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:36:17-82
+	android:name
+		ADDED from [:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:35:17-128
+provider#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingInitProvider
+ADDED from [:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:39:9-43:38
+	android:authorities
+		ADDED from [:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:41:13-88
+	android:exported
+		ADDED from [:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:42:13-37
+	android:initOrder
+		ADDED from [:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:43:13-35
+	android:name
+		ADDED from [:firebase_messaging] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:40:13-102
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:9:13-74
+activity#com.pichillilorenzo.flutter_inappwebview.in_app_browser.InAppBrowserActivity
+ADDED from [:flutter_inappwebview] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:14:9-17:47
+	android:configChanges
+		ADDED from [:flutter_inappwebview] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:16:13-137
+	android:theme
+		ADDED from [:flutter_inappwebview] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:17:13-44
+	android:name
+		ADDED from [:flutter_inappwebview] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:15:13-104
+activity#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ChromeCustomTabsActivity
+ADDED from [:flutter_inappwebview] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:18:9-20:55
+	android:theme
+		ADDED from [:flutter_inappwebview] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:20:13-52
+	android:name
+		ADDED from [:flutter_inappwebview] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:19:13-112
+receiver#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ActionBroadcastReceiver
+ADDED from [:flutter_inappwebview] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:22:9-120
+	android:name
+		ADDED from [:flutter_inappwebview] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:22:19-117
+meta-data#io.flutter.embedded_views_preview
+ADDED from [:flutter_inappwebview] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:24:9-26:36
+	android:value
+		ADDED from [:flutter_inappwebview] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:26:13-33
+	android:name
+		ADDED from [:flutter_inappwebview] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:25:13-61
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar
+ADDED from [:cloud_firestore] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:cloud_firestore] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:cloud_firestore] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/cloud_firestore/intermediates/library_manifest/release/AndroidManifest.xml:10:17-134
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
+ADDED from [:firebase_core] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_core] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_core] /home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_core/intermediates/library_manifest/release/AndroidManifest.xml:10:17-124
+provider#com.sangcomz.fishbun.FishBunFileProvider
+ADDED from [com.sangcomz:FishBun:0.11.2] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b469436221e1bb83d5a99bacad7c6c7d/jetified-FishBun-0.11.2/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [com.sangcomz:FishBun:0.11.2] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b469436221e1bb83d5a99bacad7c6c7d/jetified-FishBun-0.11.2/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [com.sangcomz:FishBun:0.11.2] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b469436221e1bb83d5a99bacad7c6c7d/jetified-FishBun-0.11.2/AndroidManifest.xml:14:13-71
+	android:exported
+		ADDED from [com.sangcomz:FishBun:0.11.2] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b469436221e1bb83d5a99bacad7c6c7d/jetified-FishBun-0.11.2/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [com.sangcomz:FishBun:0.11.2] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b469436221e1bb83d5a99bacad7c6c7d/jetified-FishBun-0.11.2/AndroidManifest.xml:13:13-68
+activity#com.sangcomz.fishbun.ui.album.AlbumActivity
+ADDED from [com.sangcomz:FishBun:0.11.2] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b469436221e1bb83d5a99bacad7c6c7d/jetified-FishBun-0.11.2/AndroidManifest.xml:22:9-25:51
+	android:label
+		ADDED from [com.sangcomz:FishBun:0.11.2] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b469436221e1bb83d5a99bacad7c6c7d/jetified-FishBun-0.11.2/AndroidManifest.xml:24:13-42
+	android:theme
+		ADDED from [com.sangcomz:FishBun:0.11.2] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b469436221e1bb83d5a99bacad7c6c7d/jetified-FishBun-0.11.2/AndroidManifest.xml:25:13-48
+	android:name
+		ADDED from [com.sangcomz:FishBun:0.11.2] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b469436221e1bb83d5a99bacad7c6c7d/jetified-FishBun-0.11.2/AndroidManifest.xml:23:13-71
+activity#com.sangcomz.fishbun.ui.picker.PickerActivity
+ADDED from [com.sangcomz:FishBun:0.11.2] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b469436221e1bb83d5a99bacad7c6c7d/jetified-FishBun-0.11.2/AndroidManifest.xml:26:9-28:51
+	android:theme
+		ADDED from [com.sangcomz:FishBun:0.11.2] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b469436221e1bb83d5a99bacad7c6c7d/jetified-FishBun-0.11.2/AndroidManifest.xml:28:13-48
+	android:name
+		ADDED from [com.sangcomz:FishBun:0.11.2] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b469436221e1bb83d5a99bacad7c6c7d/jetified-FishBun-0.11.2/AndroidManifest.xml:27:13-73
+activity#com.sangcomz.fishbun.ui.detail.DetailActivity
+ADDED from [com.sangcomz:FishBun:0.11.2] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b469436221e1bb83d5a99bacad7c6c7d/jetified-FishBun-0.11.2/AndroidManifest.xml:29:9-31:54
+	android:theme
+		ADDED from [com.sangcomz:FishBun:0.11.2] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b469436221e1bb83d5a99bacad7c6c7d/jetified-FishBun-0.11.2/AndroidManifest.xml:31:13-51
+	android:name
+		ADDED from [com.sangcomz:FishBun:0.11.2] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b469436221e1bb83d5a99bacad7c6c7d/jetified-FishBun-0.11.2/AndroidManifest.xml:30:13-73
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:22.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/316038eeded89ec4c4b5ce5789a519f1/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:25:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/83d66e12d783d71823bf7c85fdc5363d/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/83d66e12d783d71823bf7c85fdc5363d/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/316038eeded89ec4c4b5ce5789a519f1/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:25:22-79
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-messaging:22.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/316038eeded89ec4c4b5ce5789a519f1/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:28:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/316038eeded89ec4c4b5ce5789a519f1/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/316038eeded89ec4c4b5ce5789a519f1/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:31:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/316038eeded89ec4c4b5ce5789a519f1/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:29:13-78
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:22.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/316038eeded89ec4c4b5ce5789a519f1/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:41:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/316038eeded89ec4c4b5ce5789a519f1/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:44:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/316038eeded89ec4c4b5ce5789a519f1/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:43:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/316038eeded89ec4c4b5ce5789a519f1/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:42:13-82
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:22.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/316038eeded89ec4c4b5ce5789a519f1/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:52:13-54:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/316038eeded89ec4c4b5ce5789a519f1/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:54:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:22.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/316038eeded89ec4c4b5ce5789a519f1/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:53:17-119
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:18.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/95a3e9009b7f95cf657828014997a445/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:18.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/95a3e9009b7f95cf657828014997a445/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:18.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/95a3e9009b7f95cf657828014997a445/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:29:17-115
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/fea5b7bda5c79f163ce32e8c27a81771/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/edab92faf7c128da59f5948f6d1c016c/jetified-transport-runtime-3.0.0/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/edab92faf7c128da59f5948f6d1c016c/jetified-transport-runtime-3.0.0/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/fea5b7bda5c79f163ce32e8c27a81771/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/fea5b7bda5c79f163ce32e8c27a81771/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/fea5b7bda5c79f163ce32e8c27a81771/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/fea5b7bda5c79f163ce32e8c27a81771/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/fea5b7bda5c79f163ce32e8c27a81771/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:33:17-94
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:23.0.1] /home/nickneha/.gradle/caches/transforms-2/files-2.1/0f5a66da1613175e2aa079b047cbe31c/jetified-firebase-firestore-23.0.1/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:23.0.1] /home/nickneha/.gradle/caches/transforms-2/files-2.1/0f5a66da1613175e2aa079b047cbe31c/jetified-firebase-firestore-23.0.1/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:23.0.1] /home/nickneha/.gradle/caches/transforms-2/files-2.1/0f5a66da1613175e2aa079b047cbe31c/jetified-firebase-firestore-23.0.1/AndroidManifest.xml:21:17-111
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:20.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/4b82aa24a3d3d716360de72484311df6/jetified-firebase-storage-20.0.0/AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:20.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/4b82aa24a3d3d716360de72484311df6/jetified-firebase-storage-20.0.0/AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:20.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/4b82aa24a3d3d716360de72484311df6/jetified-firebase-storage-20.0.0/AndroidManifest.xml:34:17-107
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/31910f11ba510bc160c976e69225e48a/jetified-play-services-measurement-api-19.0.0/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/31910f11ba510bc160c976e69225e48a/jetified-play-services-measurement-api-19.0.0/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/31910f11ba510bc160c976e69225e48a/jetified-play-services-measurement-api-19.0.0/AndroidManifest.xml:31:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/f5f5d91b30b28a3f2289fe3dbd65d501/jetified-firebase-installations-17.0.0/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/f5f5d91b30b28a3f2289fe3dbd65d501/jetified-firebase-installations-17.0.0/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/f5f5d91b30b28a3f2289fe3dbd65d501/jetified-firebase-installations-17.0.0/AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b812895ce66149ff126824ce4bae7c29/jetified-firebase-common-20.0.0/AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b812895ce66149ff126824ce4bae7c29/jetified-firebase-common-20.0.0/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b812895ce66149ff126824ce4bae7c29/jetified-firebase-common-20.0.0/AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b812895ce66149ff126824ce4bae7c29/jetified-firebase-common-20.0.0/AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b812895ce66149ff126824ce4bae7c29/jetified-firebase-common-20.0.0/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/b812895ce66149ff126824ce4bae7c29/jetified-firebase-common-20.0.0/AndroidManifest.xml:27:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/71585d6f7916ae5591dcff470194b4c7/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/abc5de12cc46dff18bff1f790b105849/jetified-play-services-measurement-impl-19.0.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/abc5de12cc46dff18bff1f790b105849/jetified-play-services-measurement-impl-19.0.0/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/71585d6f7916ae5591dcff470194b4c7/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/71585d6f7916ae5591dcff470194b4c7/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/71585d6f7916ae5591dcff470194b4c7/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/71585d6f7916ae5591dcff470194b4c7/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/71585d6f7916ae5591dcff470194b4c7/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/71585d6f7916ae5591dcff470194b4c7/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/71585d6f7916ae5591dcff470194b4c7/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/71585d6f7916ae5591dcff470194b4c7/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/71585d6f7916ae5591dcff470194b4c7/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/71585d6f7916ae5591dcff470194b4c7/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/71585d6f7916ae5591dcff470194b4c7/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/71585d6f7916ae5591dcff470194b4c7/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/71585d6f7916ae5591dcff470194b4c7/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/71585d6f7916ae5591dcff470194b4c7/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:40:13-87
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/edab92faf7c128da59f5948f6d1c016c/jetified-transport-runtime-3.0.0/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/edab92faf7c128da59f5948f6d1c016c/jetified-transport-runtime-3.0.0/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/edab92faf7c128da59f5948f6d1c016c/jetified-transport-runtime-3.0.0/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/edab92faf7c128da59f5948f6d1c016c/jetified-transport-runtime-3.0.0/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/edab92faf7c128da59f5948f6d1c016c/jetified-transport-runtime-3.0.0/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/edab92faf7c128da59f5948f6d1c016c/jetified-transport-runtime-3.0.0/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/edab92faf7c128da59f5948f6d1c016c/jetified-transport-runtime-3.0.0/AndroidManifest.xml:33:13-132
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/3b26d64f01f78af70eecbbde543be5ce/jetified-play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/3b26d64f01f78af70eecbbde543be5ce/jetified-play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/3b26d64f01f78af70eecbbde543be5ce/jetified-play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/3b26d64f01f78af70eecbbde543be5ce/jetified-play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/fdf784fd2c9c7bbe8b06efe893d5c23c/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/fdf784fd2c9c7bbe8b06efe893d5c23c/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/nickneha/.gradle/caches/transforms-2/files-2.1/fdf784fd2c9c7bbe8b06efe893d5c23c/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58

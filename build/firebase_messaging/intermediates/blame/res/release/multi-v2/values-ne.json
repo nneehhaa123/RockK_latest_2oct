@@ -1,0 +1,116 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/incremental/mergeReleaseResources/merged.dir/values-ne/values-ne.xml",
+            "map": [
+                {
+                    "source": "/home/nickneha/.gradle/caches/transforms-2/files-2.1/fdf784fd2c9c7bbe8b06efe893d5c23c/jetified-play-services-basement-17.0.0/res/values-ne/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "222",
+                        "endOffsets": "469"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "222",
+                        "endOffsets": "323"
+                    }
+                },
+                {
+                    "source": "/home/nickneha/.gradle/caches/transforms-2/files-2.1/dca335c69883a5773fdb54c98cfafda6/core-1.1.0/res/values-ne/values-ne.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "402",
+                        "endColumns": "100",
+                        "endOffsets": "498"
+                    }
+                },
+                {
+                    "source": "/home/nickneha/.gradle/caches/transforms-2/files-2.1/316038eeded89ec4c4b5ce5789a519f1/jetified-firebase-messaging-22.0.0/res/values-ne/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "207",
+                        "endColumns": "69",
+                        "endOffsets": "276"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "328",
+                        "endColumns": "73",
+                        "endOffsets": "397"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/firebase_messaging/intermediates/res/merged/release/values-ne/values-ne.xml",
+            "map": [
+                {
+                    "source": "/home/nickneha/.gradle/caches/transforms-2/files-2.1/fdf784fd2c9c7bbe8b06efe893d5c23c/jetified-play-services-basement-17.0.0/res/values-ne/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "222",
+                        "endOffsets": "469"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "222",
+                        "endOffsets": "323"
+                    }
+                },
+                {
+                    "source": "/home/nickneha/.gradle/caches/transforms-2/files-2.1/dca335c69883a5773fdb54c98cfafda6/core-1.1.0/res/values-ne/values-ne.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "402",
+                        "endColumns": "100",
+                        "endOffsets": "498"
+                    }
+                },
+                {
+                    "source": "/home/nickneha/.gradle/caches/transforms-2/files-2.1/316038eeded89ec4c4b5ce5789a519f1/jetified-firebase-messaging-22.0.0/res/values-ne/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "207",
+                        "endColumns": "69",
+                        "endOffsets": "276"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "328",
+                        "endColumns": "73",
+                        "endOffsets": "397"
+                    }
+                }
+            ]
+        }
+    ]
+}

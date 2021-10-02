@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/multi_image_picker/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "/home/nickneha/.gradle/caches/transforms-2/files-2.1/24af5da4834a2a1bf2bca1f6631f7a5c/appcompat-1.0.0/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/multi_image_picker/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/nickneha/.gradle/caches/transforms-2/files-2.1/24af5da4834a2a1bf2bca1f6631f7a5c/appcompat-1.0.0/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    }
+]

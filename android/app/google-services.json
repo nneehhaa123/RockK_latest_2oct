@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "311406576909",
+    "project_id": "rockk-playstore",
+    "storage_bucket": "rockk-playstore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311406576909:android:068abc53b8c490f5df1c44",
+        "android_client_info": {
+          "package_name": "com.partyshifu.RockK"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311406576909-j5699pne65pa71098bds1bv9gevnm314.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKKOX4OvLwc_R_iyBS8CnFWjM22XHCafs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311406576909-j5699pne65pa71098bds1bv9gevnm314.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/multi_image_picker/intermediates/res/merged/release/interpolator/mtrl_fast_out_slow_in.xml",
+        "source": "/home/nickneha/.gradle/caches/transforms-2/files-2.1/90a480a2e811c53ef3a6926a58f41dcd/material-1.0.0/res/interpolator/mtrl_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/multi_image_picker/intermediates/res/merged/release/interpolator/mtrl_fast_out_linear_in.xml",
+        "source": "/home/nickneha/.gradle/caches/transforms-2/files-2.1/90a480a2e811c53ef3a6926a58f41dcd/material-1.0.0/res/interpolator/mtrl_fast_out_linear_in.xml"
+    },
+    {
+        "merged": "/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/multi_image_picker/intermediates/res/merged/release/interpolator/mtrl_linear_out_slow_in.xml",
+        "source": "/home/nickneha/.gradle/caches/transforms-2/files-2.1/90a480a2e811c53ef3a6926a58f41dcd/material-1.0.0/res/interpolator/mtrl_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "/home/nickneha/Desktop/Flutter_app/AndroidStudioProjects/flutter_app_test/build/multi_image_picker/intermediates/res/merged/release/interpolator/mtrl_linear.xml",
+        "source": "/home/nickneha/.gradle/caches/transforms-2/files-2.1/90a480a2e811c53ef3a6926a58f41dcd/material-1.0.0/res/interpolator/mtrl_linear.xml"
+    }
+]
